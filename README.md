@@ -1,2 +1,2 @@
 # codeschool-demo
-A sample repository to test concepts in code school
+A sample repository to test concepts learnt in code school
